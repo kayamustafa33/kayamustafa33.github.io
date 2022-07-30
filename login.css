@@ -14,7 +14,7 @@ html, body{
   background: linear-gradient(to right, #99004d 0%, #ff0080 100%);
 }
 ::selection{
-  background: #ff80bf;
+  background: bisque;
 
 }
 .container{
